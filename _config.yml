@@ -1,0 +1,28 @@
+name: bddc
+favicon: null
+layout_spectrum: 0.13304248661734164
+typography_spectrum: 0.9477971913293004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5897544492036104
+  lightness: 0.4928660311270505
+  saturation: 0.4079827640671283
+  rhythmicContrast: 0.9112047017551959
+purpose: []
